@@ -17,6 +17,14 @@ support command
   - delete
   - scale // example : meteor-deploy scale  --num 5
 
+  ** For base on sub url **
+  example: https://www.domain.com/myapp
+  folder myapp is app meteor
+  set prefixURL = myapp
+  ROOT_URL = https://www.domain.com/myapp
+  prefixURL set to  settings public
+
+
 
 
 

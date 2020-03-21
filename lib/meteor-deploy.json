@@ -2,6 +2,7 @@
   "appName":"meteor-deploy",
   "sourceLocation":"../",
   "settingFileName":"settings.json",
+  "prefixURL":"",
   "env": {
     "ROOT_URL": "https://127.0.0.1:3000",
     "PORT": "3000",
