@@ -5,13 +5,17 @@ cd ./deploy && meteor-deploy init
 change 
   - information meteor-deploy.json
   - information settings.json
-  
+
 meteor-deploy deploy 
 
 support command
   - deploy
   - backup
   - rollback
+  - save
+  - stop
+  - delete
+  - scale // example : meteor-deploy scale  --num 5
 
 
 
