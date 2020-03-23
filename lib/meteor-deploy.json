@@ -3,6 +3,8 @@
   "sourceLocation":"../",
   "settingFileName":"settings.json",
   "prefixURL":"",
+  "pathVerify":"",
+  "textVerify":"__meteor_runtime_config__",
   "env": {
     "ROOT_URL": "https://127.0.0.1:3000",
     "PORT": "3000",
