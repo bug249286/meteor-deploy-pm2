@@ -11,7 +11,7 @@
   "dependencies": {
     "abs": "^1.3.13",
     "commander": "^5.0.0",
-    "node-ssh": "^8.0.0",
+    "node-ssh": "^13.1.0",
     "rimraf": "^3.0.2"
   },
   "bin": {
